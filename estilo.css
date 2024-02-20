@@ -1,8 +1,13 @@
 body{
      height: 100vh;
      width: 100vw;
-     background:#fc466acb ;
-     background: linear-gradient(0deg, #94bbe9. ) ;
-     
-     
+     background:#fc466acb;
+     background: linear-gradient(0deg, #94bbe9 ) ;
 }
+
+.testel{
+     display: flex;
+     justify-content: center;
+}
+         
+
