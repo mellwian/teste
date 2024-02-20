@@ -3,7 +3,7 @@ body{
      width: 100vw;
      background: rgba(92, 88, 177, 0);
      background: linear-gradient(90deg, rgb(25, 25, 26) 0%, rgba(9,9,121,1) 46%, rgba(0,0,0,1) 94%); 
-     color: azure;
+     color: rgb(60, 252, 252);
 }
 
 .testel{
